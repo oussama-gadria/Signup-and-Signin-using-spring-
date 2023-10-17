@@ -1,7 +1,7 @@
 # User Login and Registration Backend
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Java](https://img.shields.io/badge/java-11-blue.svg)](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
+[![Java](https://img.shields.io/badge/java-8-blue.svg)](https://www.oracle.com/java/technologies/javase-jdk8-downloads.html)
 [![Spring Boot](https://img.shields.io/badge/spring%20boot-2.5.4-brightgreen.svg)](https://spring.io/projects/spring-boot)
 [![Build Status](https://travis-ci.com/your-username/user-login-registration-backend.svg?branch=main)](https://travis-ci.com/your-username/user-login-registration-backend)
 
