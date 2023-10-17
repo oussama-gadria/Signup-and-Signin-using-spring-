@@ -14,9 +14,6 @@ This project provides a secure backend implementation for user registration, log
 - [Installation](#installation)
 - [Configuration](#configuration)
 - [Usage](#usage)
-- [API Documentation](#api-documentation)
-- [Tests](#tests)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Technologies
@@ -42,13 +39,13 @@ This project provides a secure backend implementation for user registration, log
 1. Clone the repository to your local machine:
 
 ```shell
-git clone https://github.com/oussama-gadria/Signup-and-Signin-using-spring
+git clone https://github.com/oussama-gadria/Signup-and-Signin-using-spring-
 
 ```
 2. Navigate to the project directory:
 
 ```shell
-cd user-login-registration-backend
+cd Signup-and-Signin-using-spring-
 
 ```
 3. Build the project using Maven:
@@ -89,4 +86,4 @@ java -jar localisation-To-Your-JarFle.jar
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
